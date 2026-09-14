@@ -27,9 +27,9 @@ A full-stack movie discovery application built with React and Node.js. The platf
 `React` `Node.js` `JavaScript` `REST APIs`
 
 ### 🚗 RoadVision Live
-A real-time road monitoring application built with C++ and OpenCV. The project uses live video capture and image processing to analyze roadway conditions.
+A team-built computer vision system for real-time and prerecorded roadway object detection using YOLOv11. Includes live inference, video processing, recording, and a graphical control panel.
 
-`C++` `OpenCV`
+`Python` `YOLOv11` `PyTorch` `Computer Vision`
 
 ### ☁️ Cloud Infrastructure Automation
 A cloud infrastructure project using Terraform and Ansible to provision AWS resources and configure Linux servers.
