@@ -1,45 +1,49 @@
 # Hi, I'm Alexandra 👋
 
-I'm a recent Computer Science graduate based in Michigan. I enjoy building software and working on projects involving web development, computer vision, and cloud technologies.
+I'm a recent Computer Science graduate based in Michigan. I enjoy building software and working on projects involving full-stack development, computer vision, AI, and parallel computing.
 
 ## About Me
 
 - 🎓 Computer Science graduate
-- 💻 Interested in software development and engineering
+- 💻 Interested in software engineering and full-stack development
 - 🌱 Currently working on new projects and learning new technologies
 - 📍 Michigan
 
 ## Technical Skills
 
-**Languages:** Java, Python, C++, JavaScript, SQL
+**Languages:** Java, Python, C++, JavaScript, SQL, PHP
 
-**Web:** React, Node.js, FastAPI, HTML, CSS
+**Web:** React, Node.js, Express, FastAPI, HTML, CSS
 
 **Cloud & Tools:** AWS, Terraform, Ansible, Docker, Linux, Git, GitHub
 
-**Other:** OpenCV, pandas, NumPy, Matplotlib
+**Other:** OpenCV, PyTorch, YOLOv11, CUDA, OpenMP, MPI, pandas, NumPy
 
 ## Projects
 
-### 🎬 Smart Movie Discovery Platform
-A full-stack movie discovery application built with React and Node.js. The platform uses third-party APIs to display movie information, ratings, trailers, and streaming availability.
+### 🚗 [RoadVision – Object Detection](https://github.com/Alexandraivezaj/roadvision-object-detection)
 
-`React` `Node.js` `JavaScript` `REST APIs`
+Computer vision system for real-time and prerecorded roadway object detection using YOLOv11. Includes live inference, video processing, recording, and a graphical control panel.
 
-### 🚗 RoadVision Live
-A team-built computer vision system for real-time and prerecorded roadway object detection using YOLOv11. Includes live inference, video processing, recording, and a graphical control panel.
+`Python` `YOLOv11` `OpenCV` `PyTorch`
 
-`Python` `YOLOv11` `PyTorch` `Computer Vision`
+### 🎬 [Smart Movie Discovery](https://github.com/Alexandraivezaj/smart-movie-discovery-app)
 
-### ☁️ Cloud Infrastructure Automation
-A cloud infrastructure project using Terraform and Ansible to provision AWS resources and configure Linux servers.
+Movie discovery application with authentication, movie search, and AI-powered recommendations using Node.js, Express, and OpenAI.
 
-`AWS` `Terraform` `Ansible` `Linux`
+`JavaScript` `Node.js` `Express` `OpenAI` `REST APIs`
 
-### ⚡ Parallel Image Processor
-A C++ project focused on image processing and parallel programming.
+### ⚡ [Parallel Image Processor](https://github.com/Alexandraivezaj/parallel-image-processor)
 
-`C++` `Image Processing` `Parallel Computing`
+C++ image processing project comparing sequential, CUDA, OpenMP, and MPI implementations.
+
+`C++` `CUDA` `OpenMP` `MPI` `OpenCV`
+
+### 🗄️ [Student Management System](https://github.com/Alexandraivezaj/student-management-system)
+
+Full-stack student and course management application with a React frontend, PHP backend, and relational SQL database.
+
+`React` `JavaScript` `PHP` `SQL` `REST APIs`
 
 ## Connect With Me
 
